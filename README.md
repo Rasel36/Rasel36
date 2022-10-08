@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Rasel36
+- 👋 Hi, I’m Rasel
 - 👀 I’m interested in ...crypto currency 
-- 🌱 I’m currently learning ...class10
-- 💞️ I’m looking to collaborate on ...binance
+- 🌱 I’m currently learn about html
 - 📫 How to reach me ...
 
 <!---
